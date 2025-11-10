@@ -5,7 +5,7 @@ React Native UI kütüphanesi.
 ## Kurulum
 
 GitHub üzerinden:
-`npm i git+https://github.com/kullaniciadi/dohrnii.git#v0.1.0`
+`npm i git+https://github.com/baharari/dohrnii.git#v0.1.0`
 
 ## Kullanım
 
@@ -43,3 +43,4 @@ export default function App() {
 ## Lisans
 
 MIT
+
